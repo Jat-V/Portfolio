@@ -1,0 +1,44 @@
+#biography {
+    background-color: #ccc;
+    padding-bottom: 30px;
+}
+
+#biography h5 {
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 40px;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 0.3em;
+    font-weight: 700;
+    color: #383737;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+#biography h6 {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 0.3em;
+    font-weight: 400;
+    color: #383737;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+#origin {
+    /*font-family: */
+    width: 75%;
+    margin: 0 auto;
+    background: #ccc;
+    text-align: left;
+    font-size:17px;
+}
+
+#origin p{
+    color: #383737;
+}
+
+.skill-slider .item img {
+    width: 15%;
+    margin: 0 auto 15px auto;
+}
