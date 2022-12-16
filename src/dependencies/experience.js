@@ -23,7 +23,7 @@ export const Experience = () => {
                     <p className="description"><u>Avanti QR Code delivery system</u></p>
                 </div>
                 <div className="portfolio-thumb">
-                    <p className="description"><u>Upgrade automation tool</u></p>
+                    <p className="description"><u>Upgrade automation tool-</u></p>
                 </div>
             </div>
         </div>
