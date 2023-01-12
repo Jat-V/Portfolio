@@ -41,7 +41,7 @@ export const About = () => {
                         <p>&ensp; company: "YPPS"<br></br>
                             &ensp; role: "Programmer"<br></br>
                             &ensp; startDate: "Nov 2021"<br></br>
-                            &ensp; endDate: "Nov 2021"<br></br>
+                            &ensp; endDate: "N/A"<br></br>
                         </p>
                         <b>{'}'};</b>
                     </div>
