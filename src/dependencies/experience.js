@@ -18,7 +18,7 @@ export const Experience = () => {
                     <a className="image-popup-no-margins" href={aatspct}>{<img src={aatspct} alt="AATSPCT Homepage" />}</a>
                     <p className="description"><u>AATSP CT</u> - <em>Created a website for the American Association of
                         Teachers of Spanish and Portuguese Connecticut chapter. Made use of the
-                        Google cloud service as a backend in conjunction with <b>PHP.</b></em></p>
+                        <b> Google cloud services</b> as a backend in conjunction with <b>PHP.</b></em></p>
                 </div>
                 <div className="portfolio-thumb">
                     <a className="image-popup-no-margins" href={av_qr}>{<img src={av_qr} alt="Avanti shipment slip" />}</a>
