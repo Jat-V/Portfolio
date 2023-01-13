@@ -2,6 +2,7 @@ import './experience.css';
 import aatspct from '../img/aatspct_home.png';
 import snmp from '../img/snmp_results.png';
 import av_qr from '../img/avanti_qr.png';
+import code_upg from '../img/av_code.png';
 
 export const Experience = () => {
     return (
@@ -27,6 +28,7 @@ export const Experience = () => {
                         specific to job. </em></p>
                 </div>
                 <div className="portfolio-thumb">
+                    <a className="image-popup-no-margins" href={code_upg}>{<img src={code_upg} alt="Automation code snippet" />}</a>
                     <p className="description"><u>Upgrade tool</u> - <em>Improved efficiency by <b>85%</b> by automating the
                         process of updating software on company computers, from <b>15 minutes manually to 2 minutes.</b></em></p>
                 </div>
