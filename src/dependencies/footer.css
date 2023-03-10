@@ -1,0 +1,36 @@
+#divider {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#divider:before,
+#divider:after {
+    content: "";
+    flex: 1 1;
+    border-bottom: 1px solid #000;
+    margin: auto;
+}
+
+#footer {
+    padding-top: 20px;
+}
+
+.foot_icon {
+    justify-content: center;
+    display: flex;
+}
+
+.foot_icon svg {
+    width: 25px;
+    height: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#end {
+    justify-content: center;
+    display: flex;
+    padding: 10px 10px 10px;
+
+}

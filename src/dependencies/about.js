@@ -1,8 +1,7 @@
 import './about.css'
-
 export const About = () => {
     return(
-        <div id="about">
+        <div id={`about`}>
             <h4>Hello, world! I am a programmer.</h4>
             <div id="code">🔴 🟡 🟢
                 <div id="console">
@@ -38,10 +37,10 @@ export const About = () => {
                     <br></br>
                     <b>Jat.workExperience.latest = {'{'}</b>
                     <div className="css-typing">
-                        <p>&ensp; company: "YPPS"<br></br>
+                        <p>&ensp; company: "Yale Printing & Publishing Services"<br></br>
                             &ensp; role: "Programmer"<br></br>
-                            &ensp; startDate: "Nov 2021"<br></br>
-                            &ensp; endDate: "N/A"<br></br>
+                            &ensp; startDate: "October 2021"<br></br>
+                            &ensp; endDate: "In Progress"<br></br>
                         </p>
                         <b>{'}'};</b>
                     </div>

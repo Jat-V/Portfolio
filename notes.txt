@@ -1,61 +1,19 @@
-<div className="App">
-  <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-</div>
+<meta name="Description" content="Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and expert device support." />
 
-APP CSS
----
+<meta property="og:title" content="Apple" />
 
-.App {
-  text-align: center;
-}
+<meta property="og:description" content="Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and expert device support." />
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+<meta property="og:url" content="https://www.apple.com/" />
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
+<meta property="og:locale" content="en_US" />
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
+<meta property="og:image" content="https://www.apple.com/ac/structured-data/images/open_graph_logo.png?202110180743" />
 
-.App-link {
-  color: #61dafb;
-}
+<meta property="og:type" content="website" />
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+<meta property="og:site_name" content="Apple" />
+
 -----
 
 Ehsan website

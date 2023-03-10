@@ -1,6 +1,7 @@
 #biography {
     background-color: #ccc;
     padding-bottom: 30px;
+    margin-top: -25px;
 }
 
 #biography h5 {
@@ -29,7 +30,6 @@
     /*font-family: */
     width: 75%;
     margin: 0 auto;
-    background: #ccc;
     text-align: left;
     font-size:17px;
 }
