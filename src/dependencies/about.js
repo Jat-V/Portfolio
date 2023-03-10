@@ -1,4 +1,5 @@
 import './about.css'
+import J_Resume from '../source/JV_Resume2023.pdf'
 export const About = () => {
     return(
         <div id={`about`}>
@@ -47,7 +48,7 @@ export const About = () => {
                     <br></br>
                     <b>Jat.resume = {'{'}</b>
                     <div className="css-typing">
-                        <p><span className="answer">&ensp; PDF:<a href="notes.txt">JV_Resume_link.pdf</a></span><br></br></p>
+                        <p><span className="answer">&ensp; PDF:<a href={J_Resume}>JV_Resume_link.pdf</a></span><br></br></p>
                         <b>{'}'};</b>
                     </div>
                 </div>
