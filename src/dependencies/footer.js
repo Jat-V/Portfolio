@@ -39,7 +39,7 @@ export const Footer = () => {
             </div>
 
             <footer id="end">
-                    <em>Copyright &copy; 2023 Jatniel Veliz.</em>
+                    <em>Copyright &copy; 2023-2024 Jatniel Veliz.</em>
             </footer>
         </div>
     );

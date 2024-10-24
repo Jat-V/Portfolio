@@ -5,6 +5,7 @@ import python from '../img/python.svg';
 import bash from '../img/bash.svg';
 import powershell from '../img/powershell.svg';
 import mysql from '../img/mysql.svg';
+import nextj from '../img/next.svg';
 import git from '../img/git.svg';
 import web_dev from '../img/undraw_programmer_re_owql.svg';
 import cloud_host from '../img/undraw_cloud_hosting_7xb1.svg';
@@ -35,7 +36,7 @@ export const Cover = () => {
             <h5>About Me</h5>
             <div id="origin">
                 <p>
-                    My full name is Jatniel Veliz and I enjoy bringing ideas to life. Automating solutions, solving
+                    My full name is Jatniel Veliz, I go by Jat and I enjoy bringing ideas to life. Automating solutions, solving
                     business problems, and innovating processes are the foundation that motivates me. I am someone who
                     is curious and wants to expand and share on their current knowledge of the field.
                 </p>
@@ -58,6 +59,11 @@ export const Cover = () => {
                                     <div className="item">
                                         <h6>Git</h6>
                                         {<img src={git} alt="Git logo" />}
+                                    </div>
+                                    <div className="item">
+                                        <h6>NextJS</h6>
+                                        <br></br>
+                                        {<img src={nextj} alt="NextJS logo" />}
                                     </div>
                                     <div className="item">
                                         <h6>Powershell</h6>
